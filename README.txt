@@ -14,7 +14,7 @@ to make a backup before modifying.
 
 USE
 ----------------------------------------------------------------------------------------------------
-Right click on a study sub-directory in your dev directory. If setup was done correctly,
+Close Visual Studio. Right click on a study sub-directory in your dev directory. If setup was done correctly,
 you will see a context menu item called "Solution Cleanup". When you click this menu item,
 the PowerShell CLI will open and you will display output from the cleanup steps.
 
